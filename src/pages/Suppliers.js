@@ -89,7 +89,7 @@ const Suppliers = () => {
 
   return (
     <div>
-      <div className="flex justify-between items-center mb-6">
+      <div className="page-header">
         <h1 className="text-3xl font-bold text-gray-900">Yetkazib beruvchilar</h1>
         <button onClick={() => setShowModal(true)} className="btn btn-primary">
           <Plus size={20} />
