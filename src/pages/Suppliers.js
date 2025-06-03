@@ -90,7 +90,7 @@ const Suppliers = () => {
   return (
     <div>
       <div className="page-header">
-        <h1 className="text-3xl font-bold text-gray-900">Yetkazasdasib xzvsdvzvzsdvberuvchilar</h1>
+        <h1 className="text-3xl font-bold text-gray-900">Yetkaz beruvchilar</h1>
         <button onClick={() => setShowModal(true)} className="btn btn-primary">
           <Plus size={20} />
           Yangi yetkazib beruvchi
